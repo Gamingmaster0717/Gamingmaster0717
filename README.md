@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Gamingmaster0717
-- 👀 I’m interested in how to make playing video games ez
-- 🌱 I’m trying to learn how to read code (not really lol)
-- 💞️ I’m looking to play roblox more
-- 📫 Reach me @ timoth_watson@hertford.k12.nc.us or timothywat1000@gmail.com whichever you prefer
-- 🦐 i like to eat shrimp
-<!---
-Gamingmaster0717/Gamingmaster0717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I'm @Gamingmaster0717. I'm interested in finding ways to make playing video games easier. Although I'm not really into reading code, I'm willing to learn. I'm looking for ways to play games on my mobile device more often. You can reach me at timoth_watson@hertford.k12.nc.us or timothywat1000@gmail.com, whichever you prefer. By the way, I love eating shrimp!
